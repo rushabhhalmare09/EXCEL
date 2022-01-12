@@ -1,0 +1,144 @@
+ To use the Function keys in Excel on a Mac you will need to use the fn key in addition to the function key. 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+If we want to see top few rows and scroll down  
+
+      - then we select the box till the row we want to freeze and In VIEW TAB and choose FREEZE Option and freeze it so whenever we scroll those rows can be seen. 
+
+ 
+
+CTRL + O or CMD + O  
+
+      -  To open new workbook 
+
+      - As we will be having two workbook so to switch workbook go to VIEW TAB and choose SWITCH WINDOWS and navigate from here.     [ Shortcut – CTRL + F6 or CMD + ~ ] 
+
+ 
+
+F2  
+
+  -  For double-click on selected box to write or edit  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+This + sign in BLACK this is a FILL HANDLER allows us to quickly copy,  
+
+Means if we drag that + from Sydney to down then Sydney will be copied till we drag 
+
+Means if we drag that + from R1001  to down then it will get incremented by 1 till we drag. 
+
+Means if we drag that + from 1/05/2017 to down then it will get incremented by 1 till we drag. 
+
+After draging down, we have a small box on clicking it we can again modify how we want I.e we want it as a series, or copy or other option 
+
+We can also double click on + sign still we will get the same result  
+
+ 
+
+ 
+
+See in this figure, 
+
+We see in the option there is a FLASH FILL option, if we choose that option then, it will make email as per firstNameLastName@pp.com.au 
+
+ 
+
+ 
+
+ 
+
+CTRL + Z — Undo previous action 
+
+F4 (fn + F4 / CMD + T) — Cycle through all 4 types of cell references. (Absolute, Mixed x2, Relative) 
+
+CTRL + ~ (CTRL + `) — Show formulas in the worksheet 
+
+SHIFT + F3 (CTRL + A) — Open Formula Builder/ Function Wizard 
+
+CTRL + PgUp (CMD + PgUp) — Go to the previous sheet. 
+
+CTRL + PgDn (CMD + PgDn) — Go to the next sheet. 
+
+Excel Terminology 
+
+ 
+
+Formula 
+
+A formula is entered into a cell to perform a calculation. A formula always starts with an equal sign (=) and once committed (press Enter), the result is displayed in that cell. At its most basic, formulas can be simple mathematical calculations with values much like you would type into a calculator. An example of a formula would be: =A1+B1 which would take whatever value was entered into cell A1 and add it to the value that was typed into B1. After typing the formula and pressing the Enter key, the resulting value will be displayed in the cell in which you entered the formula. 
+
+Function 
+
+A function is what we referred to in the videos a 'mini-program' that you can use to make more complex calculations. Functions are used inside formulas and therefore, you need to start with an equal sign (=). Formulas operate with cell references and are very powerful. One commonly used function is SUM, which will add up the values in a defined range. The function: =SUM(A1:A12) will sum up all values contained in cells A1through to A12 and return the result once you commit the function by pressing the ENTER key. 
+
+Formula Bar 
+
+ 
+
+The formula bar is located underneath the ribbon. The first edit line shows cell reference of the currently active cell - this is called the Name Box. The second edit line provides space to enter cell content and a helper tool to enter formulas: 
+
+ 
+
+Once you enter an equal sign into the active cell, frequently used functions appear in the Name Box on the left - a drop-down menu offers more options. 
+
+ 
+
+Value 
+
+Values are numeric data that is entered into a cell. When text is entered into a cell without being assigned a number format, we refer to them as labels. When data is formatted as a value type, it can be referred to in formulas and functions and used in calculations. 
+
+Range 
+
+A range refers to two or more cells. When these cells are together, we call this an adjacent range. Consider this example: 
+
+ 
+
+This adjacent range covers all the cells from A1 through to C2 - or in Excel syntax this is written as A1:C2. The colon (:) basically stands for 'through to'. Whenever we want to define a range of cells that are not all in one place, we talk about non-adjacent ranges: 
+
+ 
+
+This range includes cells A1:A2 and C1:C2. In Excel syntax this is written as A1:A2,C1:C2. 
+
+Reference, relative 
